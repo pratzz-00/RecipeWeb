@@ -2,6 +2,13 @@
 
 A simple and tasty food recipe website built with HTML and CSS.
 
+
+
+## 🚀 Live Site
+🔗 [TastyBites on GitHub Pages](https://pratzz-00.github.io/RecipeWeb/)
+
+
+
 ## 🌟 Features
 - Beautiful responsive UI
 - Recipe listing
