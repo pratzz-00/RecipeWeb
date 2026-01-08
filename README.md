@@ -21,7 +21,9 @@ A simple and tasty food recipe website built with HTML and CSS.
 - `style.css`, `recipes.css`, `details.css`: Styling
 
 ## 🖼️ Preview
-> *[Insert screenshot or link to GitHub Pages once deployed]*
+<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/1f33ca53-c18e-47e0-9035-bf351a73241b" />
+<img width="1901" height="870" alt="image" src="https://github.com/user-attachments/assets/252a9707-db3e-47ae-8690-e83f4fd0c495" />
+
 
 ## 🚀 How to Use
 Just open `index.html` in a browser and explore!
